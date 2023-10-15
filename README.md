@@ -22,7 +22,7 @@ _A company has shared their Diwali sales data, seeking an exploratory data analy
 _Our exploration will encompass a multifaceted examination of sales by region, product categories, and customer behaviours. We will pinpoint top-performing states and categories. The ultimate goal is to provide actionable recommendations that enable the company to refine strategies, enhance customer engagement, and create tailored initiatives that resonate with their audience. By leveraging the insights derived from the exploratory data analysis, the company can not only elevate customer satisfaction but also strategically increase their revenue, thereby charting a course toward sustainable growth._
 
 ## About The Dataset
-![Diwali Sales Dataset](https://www.kaggle.com/datasets/saadharoon27/diwali-sales-dataset)
+[Diwali Sales Dataset](https://www.kaggle.com/datasets/saadharoon27/diwali-sales-dataset)
 
 | **Column Name**        | **Description**                                     |
 |--------------------|-------------------------------------------------|
@@ -43,7 +43,7 @@ _Our exploration will encompass a multifaceted examination of sales by region, p
 | **unnamed1**           | Empty Column   |
 
 ## Explore The Notebook
-To explore the notebook click ![**here**](https://github.com/saadharoon27/Diwali-Sales-Data-Analysis-Project-On-Python/blob/f2a2ef06a6316d6f0c4fb6e86197e088b6bcb376/Project%20On%20Diwali%20Sales.ipynb)
+To explore the notebook click [**here**](https://github.com/saadharoon27/Diwali-Sales-Data-Analysis-Project-On-Python/blob/f2a2ef06a6316d6f0c4fb6e86197e088b6bcb376/Project%20On%20Diwali%20Sales.ipynb)
 
 ## Method
 _**Exploratory data analysis**_
